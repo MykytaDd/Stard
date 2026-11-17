@@ -1,0 +1,22 @@
+{
+	"Name": "Cherry Lake Tilesheet",
+	"Author": "PlatinumCats",
+	"Version": "1.0.0",
+	"Description": "Tilesheet by PlatinumCats for map-makers to use.",
+	"UniqueID": "PC.CL.Tilesheet",
+	"MinimumApiVersion": "3.0.0",
+	"UpdateKeys": [ "Nexus:36102" ],
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	},
+  "Dependencies": [
+    {
+      "UniqueID": "grapeponta.VibrantPastoralRecolor",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "DaisyNiko.EarthyRecolour",
+      "IsRequired": false
+    }
+]
+}

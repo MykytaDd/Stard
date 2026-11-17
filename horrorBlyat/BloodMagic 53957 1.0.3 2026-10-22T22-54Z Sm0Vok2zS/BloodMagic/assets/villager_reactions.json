@@ -1,0 +1,860 @@
+{
+  "Abigail": {
+    "Whispers": [
+      "The graveyard felt different last night. Like someone had been standing just behind me.$u",
+      "I heard a bell from the woods. There isn't a bell out there, is there?"
+    ],
+    "Unease": [
+      "I went toward the old path with my sword. Something made me turn around before I even reached it.$u",
+      "There's a kind of humming under the ground lately. I wish I knew what it was.$u"
+    ],
+    "Cultists": [
+      "I saw three shapes between the trees. When I blinked, one of them was closer.$s",
+      "Dad says it's just shadows. Since when do shadows watch you walk home?"
+    ],
+    "Temple": [
+      "There's a place beyond the forest that feels wrong, even from here. Tell me I'm imagining it.$u",
+      "Whatever's been waking up out there, it isn't interested in buried treasure.$u"
+    ],
+    "Aftermath": [
+      "The graveyard's quiet again. Not boring quiet. The good kind.$h",
+      "I sharpened my sword for nothing this week. For once, I'm glad.$h"
+    ],
+    "Severed": [
+      "I went back to the old path. Nothing followed me home this time.$h",
+      "Strange. The woods still feel old, but they don't feel hungry anymore.$h"
+    ]
+  },
+  "Alex": {
+    "Whispers": [
+      "I was out running before sunrise. Heard something moving beside the road, keeping pace with me.$u",
+      "My morning run felt weird today. Like somebody was counting my steps."
+    ],
+    "Unease": [
+      "You ever feel watched during training? Probably just my imagination, right?",
+      "Dust came off the ground when I was lifting. No wind, no truck. Weird."
+    ],
+    "Cultists": [
+      "Grandma says not to go near the forest after dark. I think I'll listen this time.$u",
+      "Something was standing near the road last night. I couldn't make out a face.$s"
+    ],
+    "Temple": [
+      "Even the field feels strange. I keep expecting the ground to move.$u",
+      "I'd rather face a whole team than whatever's making those noises at night."
+    ],
+    "Aftermath": [
+      "Finally got a good night's sleep. I didn't realize how long it had been.$h",
+      "I ran past the woods today. Felt like a normal morning again.$h"
+    ],
+    "Severed": [
+      "There's something nice about ordinary mornings. Don't tell anyone I said that.$h",
+      "Been running farther lately. It's good not having that feeling at my back.$h"
+    ]
+  },
+  "Caroline": {
+    "Whispers": [
+      "The tea leaves have been making the strangest shapes. Probably nothing.$u",
+      "My sunroom plants keep turning toward the same empty corner."
+    ],
+    "Unease": [
+      "I've been leaving the curtains open. I don't like what I imagine when they're closed.$u",
+      "Abigail's been asking about unusual sounds. I wish I had an answer for her."
+    ],
+    "Cultists": [
+      "Pierre thinks the figures people mention are tourists. Tourists don't vanish into trees.$u",
+      "I asked Abigail to be home before sunset. She actually agreed. That worries me.$s"
+    ],
+    "Temple": [
+      "The garden's been growing unevenly, even with the same light and water.$u",
+      "I spent an hour tending a plant that wasn't sick. I suppose I just needed something to do."
+    ],
+    "Aftermath": [
+      "My tea garden feels peaceful again. I'd nearly forgotten that feeling.$h",
+      "Abigail came home laughing last night. It was wonderful to hear.$h"
+    ],
+    "Severed": [
+      "The leaves are turning toward the sunlight again, as they should.$h",
+      "Come by for tea sometime. I'd like to talk about something pleasantly ordinary.$h"
+    ]
+  },
+  "Clint": {
+    "Whispers": [
+      "Had a tool ring on its hook all by itself. Must've been the vibration from the forge.$u",
+      "My hammer sounds different against the anvil lately. Can't explain it."
+    ],
+    "Unease": [
+      "Some of the old metal in my shop has started humming at night. I didn't know metal could do that.$u",
+      "The furnace went cold for a second with a full load of coal. Never seen that."
+    ],
+    "Cultists": [
+      "A hooded person stood outside after closing. When I went to ask what they wanted, nobody was there.$s",
+      "I'm keeping the shutters closed at night. It helps me concentrate. Sort of."
+    ],
+    "Temple": [
+      "Whatever's under the ground is making the old iron behave strangely.$u",
+      "I found marks on a scrap of metal that I definitely didn't make."
+    ],
+    "Aftermath": [
+      "The forge has been steady all week. That's a relief I didn't expect.$h",
+      "It's nice when a hammer sounds like a hammer again.$h"
+    ],
+    "Severed": [
+      "No strange vibrations, no cold furnace. Just honest work.$h",
+      "I've stopped checking the shop door every few minutes. Mostly.$h"
+    ]
+  },
+  "Demetrius": {
+    "Whispers": [
+      "The soil samples show a temperature change I can't account for.$u",
+      "My instruments recorded a pulse with no corresponding weather event. Fascinating."
+    ],
+    "Unease": [
+      "I've repeated the same measurement six times. The anomaly is consistent, which makes it more troubling.$u",
+      "Something is interfering with my sensors near the southern woods."
+    ],
+    "Cultists": [
+      "Those reports of figures in the forest don't match any wildlife activity I know of.$u",
+      "I collected an unusual reading just before dawn. Every sensor registered it.$u"
+    ],
+    "Temple": [
+      "The disturbances are converging on a single region, but the source remains unknown.$u",
+      "I could publish these results, if anyone would believe the underlying measurements."
+    ],
+    "Aftermath": [
+      "The readings have returned to baseline. I'll continue monitoring them.$h",
+      "This is the first stable data set I've recorded in weeks.$h"
+    ],
+    "Severed": [
+      "For once, my instruments and the weather report agree.$h",
+      "The valley's returning to its normal patterns. That's excellent news.$h"
+    ]
+  },
+  "Elliott": {
+    "Whispers": [
+      "Last night I dreamed the tide was whispering names I didn't recognize.$u",
+      "The ocean usually helps me sleep. Recently, it's had the opposite effect."
+    ],
+    "Unease": [
+      "A page of my manuscript was covered in handwriting I don't remember writing.$u",
+      "There's a pause between the waves lately. It makes the shore feel like it's listening."
+    ],
+    "Cultists": [
+      "I saw a dark silhouette at the end of the pier. It remained after the lanterns went out.$s",
+      "I have no metaphor for the shapes I saw among the rocks. That troubles me."
+    ],
+    "Temple": [
+      "The sea was perfectly still when the earth shuddered. It was profoundly unnatural.$u",
+      "My story's villain suddenly seems rather ordinary by comparison."
+    ],
+    "Aftermath": [
+      "The tide is singing its familiar song again. I'm relieved beyond words.$h",
+      "I wrote three pages this morning. Not one was about shadows.$h"
+    ],
+    "Severed": [
+      "I have a new appreciation for stories with happy, uneventful endings.$h",
+      "The ocean has its secrets, but it seems content to keep them.$h"
+    ]
+  },
+  "Emily": {
+    "Whispers": [
+      "I had a dream of a door with no handle. I woke up before it opened.$u",
+      "Something's changed in the energy around town. I can't quite describe it."
+    ],
+    "Unease": [
+      "My dreams have been unusually heavy lately, like walking underwater.$u",
+      "I tried meditating, but there was another rhythm underneath my breathing.$u"
+    ],
+    "Cultists": [
+      "I saw someone at the edge of the woods. Their energy felt... empty.$s",
+      "Even the crystals have been restless. That's never happened to me before."
+    ],
+    "Temple": [
+      "There's a pressure in the air. It feels like the moment before a thunderstorm, but the sky is clear.$u",
+      "I keep picturing a black doorway when I close my eyes.$s"
+    ],
+    "Aftermath": [
+      "I slept all the way through last night. The dreams were bright again.$h",
+      "Whatever was weighing on this place feels lighter now.$h"
+    ],
+    "Severed": [
+      "The valley's energy is flowing freely again. I hope you can feel it too.$h",
+      "I had a dream about dancing in a field of flowers. Much better.$h"
+    ]
+  },
+  "Evelyn": {
+    "Whispers": [
+      "The birds stopped singing for a moment yesterday. George didn't notice, but I did.$u",
+      "I've lived here a long time. Sometimes the valley reminds me how old it really is."
+    ],
+    "Unease": [
+      "My grandmother used to tell stories about people who went into the woods and weren't seen again.$u",
+      "There are things in the old stories that I've never quite managed to forget.$u"
+    ],
+    "Cultists": [
+      "Some young people say they've seen strangers after dark. That brings back unpleasant memories.$u",
+      "I told Alex to stay on the main road in the evenings. He promised me he would."
+    ],
+    "Temple": [
+      "The roses were closed all morning, even in the sunshine. Most peculiar.$u",
+      "I'm not easily frightened, dear. But I've been keeping an extra lamp lit.$u"
+    ],
+    "Aftermath": [
+      "The birds were singing when I woke up. Such a simple blessing.$h",
+      "I baked extra cookies. It's been a while since I felt like celebrating.$h"
+    ],
+    "Severed": [
+      "My garden feels like itself again. I think that's worth being grateful for.$h",
+      "Whatever troubled this old valley seems to have passed. I hope it stays that way.$h"
+    ]
+  },
+  "George": {
+    "Whispers": [
+      "Hmph. Heard footsteps outside and nobody was there. People need better hobbies.",
+      "Something rattled the window last night. Wasn't the wind, either."
+    ],
+    "Unease": [
+      "Everyone keeps pretending nothing's wrong. I've got ears, you know.",
+      "If the woods are making noises, stay out of the woods. Simple enough."
+    ],
+    "Cultists": [
+      "Saw a person standing by the road after dark. Didn't like the look of them.$u",
+      "I don't scare easy. Still don't care for what's been happening outside."
+    ],
+    "Temple": [
+      "The ground shook my chair yesterday. Don't tell me it was a passing cart.",
+      "I've seen enough strange things in this town for one lifetime."
+    ],
+    "Aftermath": [
+      "Slept fine last night. About time, too.$h",
+      "Good. It's quiet. Now if everyone would stop talking about how quiet it is."
+    ],
+    "Severed": [
+      "These are the kinds of days I like. Nothing trying to surprise me.",
+      "Peace and quiet. You'd think that was too much to ask."
+    ]
+  },
+  "Gus": {
+    "Whispers": [
+      "A few customers say they've been hearing things on the road home.$u",
+      "Someone left the saloon early because they thought they saw a light outside the window."
+    ],
+    "Unease": [
+      "Folks have been staying a little later than usual. I don't think it's just the food.$u",
+      "I've started walking customers to the door after closing. Can't be too careful."
+    ],
+    "Cultists": [
+      "I've heard more than one story about people in robes near the forest.$u",
+      "Even the regulars have gone quiet when those strange figures come up in conversation.$u"
+    ],
+    "Temple": [
+      "There was a sudden silence in the saloon last night. Every glass stopped rattling at once.$u",
+      "I think everyone in town could use a warm meal and a safe place to sit."
+    ],
+    "Aftermath": [
+      "People have started laughing again. That's the best sound a saloon can have.$h",
+      "Business is lively again. I was worried about everyone.$h"
+    ],
+    "Severed": [
+      "Feels good to see the regular crowd enjoying themselves.$h",
+      "First round of coffee's on me today. Just don't tell the others.$h"
+    ]
+  },
+  "Haley": {
+    "Whispers": [
+      "My photos have these weird dark streaks across them. Maybe the lens needs cleaning.$u",
+      "It's impossible to get decent outdoor lighting lately. Everything looks so gloomy."
+    ],
+    "Unease": [
+      "I took a picture of the woods and there's something in the background I swear wasn't there.$s",
+      "Some of my photos are making me uncomfortable. I'm putting them away."
+    ],
+    "Cultists": [
+      "Emily said she saw strange people in the forest. I told her to stop walking there alone.$u",
+      "There's no way I'm going near those trees after sunset. Absolutely not."
+    ],
+    "Temple": [
+      "Even the light on the beach looks wrong lately. It's ruining my pictures.$u",
+      "I just want the town to feel normal again. Is that too much to ask?"
+    ],
+    "Aftermath": [
+      "The afternoon light was gorgeous today! Finally.$h",
+      "I took so many photos this morning. They're all beautiful.$h"
+    ],
+    "Severed": [
+      "The town looks good in my pictures again. I think I'll make an album.$h",
+      "It's amazing how much better everything looks when you're not worried.$h"
+    ]
+  },
+  "Harvey": {
+    "Whispers": [
+      "A few people have mentioned unusually restless sleep. It may be seasonal stress.$u",
+      "I've been seeing more fatigue than usual lately. Be sure you're getting rest."
+    ],
+    "Unease": [
+      "I'm concerned about the number of patients reporting the same unsettling dreams.$u",
+      "Stress can affect a whole community, but these symptoms began rather suddenly."
+    ],
+    "Cultists": [
+      "Several patients have described seeing figures in their peripheral vision.$u",
+      "I can't treat something I can't explain. That is not a comfortable position for a doctor."
+    ],
+    "Temple": [
+      "I've been checking in on the older residents more frequently.$u",
+      "I wish I could reassure everyone. I'm not certain what I'd be reassuring them about."
+    ],
+    "Aftermath": [
+      "People are sleeping better. I'm glad to see the improvement.$h",
+      "The clinic's been wonderfully ordinary this week.$h"
+    ],
+    "Severed": [
+      "Remember that recovery takes time, even after the cause of stress has passed.$h",
+      "I'm pleased the town seems to be finding its balance again.$h"
+    ]
+  },
+  "Jas": {
+    "Whispers": [
+      "The chickens got very quiet last night. Even Charlie.$u",
+      "Aunt Marnie says not to play by the trees after dinner."
+    ],
+    "Unease": [
+      "I heard someone humming in the woods. Shane said it was probably a bird.$u",
+      "Vincent and I made up a game where the shadows aren't allowed to follow us."
+    ],
+    "Cultists": [
+      "I saw some people far away in the trees. Aunt Marnie brought me inside.$s",
+      "The animals don't like it when it gets dark now.$u"
+    ],
+    "Temple": [
+      "I had a bad dream, but Aunt Marnie made me hot chocolate.$u",
+      "Can you tell the woods to stop being scary?"
+    ],
+    "Aftermath": [
+      "The chickens are singing again! Well... clucking.$h",
+      "I played outside today and wasn't scared at all.$h"
+    ],
+    "Severed": [
+      "Aunt Marnie says everything is all right. I believe her.$h",
+      "Vincent and I are making a map of the nicest places in town.$h"
+    ]
+  },
+  "Jodi": {
+    "Whispers": [
+      "The house creaked all night. I hardly slept.$u",
+      "Vincent said he heard somebody calling from outside. Nobody was there."
+    ],
+    "Unease": [
+      "I've asked Vincent to be home before dark. He's not pleased about it.$u",
+      "Some nights I just sit with the lights on, waiting for the house to settle."
+    ],
+    "Cultists": [
+      "I saw strangers walking toward the forest. I've never seen them shopping in town.$u",
+      "Kent's been checking the locks more often. I'm grateful, but I'm worried too."
+    ],
+    "Temple": [
+      "I feel as though the whole town is holding its breath.$u",
+      "I hope whatever's happening stays far away from our homes."
+    ],
+    "Aftermath": [
+      "Vincent slept through the night. That was such a relief.$h",
+      "Our house finally feels restful again.$h"
+    ],
+    "Severed": [
+      "I think I'll make a special dinner tonight. We could all use a nice evening.$h",
+      "The boys are playing outside again. It's good to hear them laugh.$h"
+    ]
+  },
+  "Kent": {
+    "Whispers": [
+      "I noticed movement along the tree line before dawn. Couldn't identify it.$u",
+      "I've started taking the longer route home. Gives me a clearer view of the road."
+    ],
+    "Unease": [
+      "I don't like unexplained movement near the houses after dark.$u",
+      "I'm keeping a closer eye on the paths around town. Just a precaution."
+    ],
+    "Cultists": [
+      "There are people moving through the woods who don't want to be seen.$u",
+      "I spotted shapes near the pond. Their movements didn't make sense.$u"
+    ],
+    "Temple": [
+      "I heard a sound from the hills that set my teeth on edge.$u",
+      "Whatever's out there, I'm keeping my family away from it."
+    ],
+    "Aftermath": [
+      "The roads have been quiet lately. I hope it lasts.$h",
+      "Jodi seems less worried. That matters more than anything.$h"
+    ],
+    "Severed": [
+      "I took a walk without checking every corner of the road. Felt good.$h",
+      "It's easier to be present with my family when things are peaceful.$h"
+    ]
+  },
+  "Krobus": {
+    "Whispers": [
+      "The darkness beneath the town has acquired an unfamiliar taste.$u",
+      "Some shadows have been whispering in a tongue I do not know.$u"
+    ],
+    "Unease": [
+      "Something old has stirred deeper than the sewers. It is not one of my people.$u",
+      "Even the quiet places are keeping their distance from whatever is waking.$u"
+    ],
+    "Cultists": [
+      "Hooded shapes have passed above the drains. They are not shadow people.$u",
+      "My kin avoid the passages near the forest now. I think that is wise.$u"
+    ],
+    "Temple": [
+      "There is a wound between places. I can feel it in the water.$s",
+      "I have hidden my oldest things. This is not a darkness I wish to greet.$u"
+    ],
+    "Aftermath": [
+      "The water no longer carries that dreadful echo.$h",
+      "I am not afraid of the shadows again. Only of the things that sometimes hide inside them."
+    ],
+    "Severed": [
+      "The boundary is whole again. I had forgotten how still it could be.$h",
+      "I hope you are free of what followed you, friend.$h"
+    ]
+  },
+  "Leah": {
+    "Whispers": [
+      "I've been sketching the woods, but I keep adding an extra figure without meaning to.$u",
+      "The forest sounds have changed. I used to know every one of them."
+    ],
+    "Unease": [
+      "I tried carving today, but the grain looked like a row of watching eyes.$u",
+      "There are places in the forest I don't want to paint anymore.$u"
+    ],
+    "Cultists": [
+      "I saw people standing perfectly still among the trees. I packed up my easel.$s",
+      "The birds go silent just before the strange figures appear.$u"
+    ],
+    "Temple": [
+      "The soil under my feet felt warm yesterday. The air was freezing.$u",
+      "I brought my work inside. I don't want to stay out there after sunset.$u"
+    ],
+    "Aftermath": [
+      "I spent all morning painting outdoors. It felt wonderful.$h",
+      "The forest finally sounds like a forest again.$h"
+    ],
+    "Severed": [
+      "I think my next sculpture will be something gentle. I've had enough of sharp shapes.$h",
+      "The light through the trees is beautiful today. You should see it.$h"
+    ]
+  },
+  "Lewis": {
+    "Whispers": [
+      "We've had a few complaints about strange noises near the woods.$u",
+      "I would appreciate it if everyone avoided spreading alarming rumors."
+    ],
+    "Unease": [
+      "The town hasn't had this many unusual reports in years. I'm looking into it.$u",
+      "I've asked people to stick to well-lit paths after dusk. Purely precautionary."
+    ],
+    "Cultists": [
+      "Strangers in ceremonial clothing? That is not an official town activity.$u",
+      "I'm aware of the reports. I simply don't see the benefit of causing a panic.$u"
+    ],
+    "Temple": [
+      "I've contacted the appropriate people. That's all I can say for now.$u",
+      "We need to keep the town calm until we understand what we're dealing with.$u"
+    ],
+    "Aftermath": [
+      "The complaints have stopped. I hope we can finally put this behind us.$h",
+      "It's a relief to focus on ordinary town business again.$h"
+    ],
+    "Severed": [
+      "The valley has endured a great deal over the years. It always finds its footing.$h",
+      "I'd like our next town meeting to be about flowers. Just flowers.$h"
+    ]
+  },
+  "Linus": {
+    "Whispers": [
+      "The night sounds have changed. Something is listening where there was once only wind.$u",
+      "The animals have been sleeping closer to my tent lately.$u"
+    ],
+    "Unease": [
+      "The forest gives warnings, if you know how to hear them. Lately, it has been very clear.$u",
+      "I found tracks in the leaves that ended without turning around.$u"
+    ],
+    "Cultists": [
+      "Those cloaked wanderers do not move like people at home in the woods.$u",
+      "I have seen fires in places where no camp could stand.$u"
+    ],
+    "Temple": [
+      "Something beneath the old ground is trying to remember how to breathe.$s",
+      "Even the wild creatures know to stay away from the forgotten paths.$u"
+    ],
+    "Aftermath": [
+      "The birds have returned to their old resting places. A good sign.$h",
+      "The woods are patient. I think they've begun to forgive us.$h"
+    ],
+    "Severed": [
+      "I slept well under the stars. They seem brighter now.$h",
+      "The forest is quiet again. Not empty, just at peace.$h"
+    ]
+  },
+  "Marnie": {
+    "Whispers": [
+      "The cows kept turning toward the forest all evening.$u",
+      "One of the goats refused to go into the barn. That's not like her."
+    ],
+    "Unease": [
+      "The animals sense something I can't see. I've been bringing them inside early.$u",
+      "I don't like how quiet the woods get just before sundown.$u"
+    ],
+    "Cultists": [
+      "I saw people in dark clothes near the pasture fence. They walked away before I could call out.$u",
+      "The chickens have been huddling together after sunset. Poor things.$u"
+    ],
+    "Temple": [
+      "The animals were restless through the night. None of us got much sleep.$u",
+      "I've double-checked every latch on the barn. Something has them frightened.$u"
+    ],
+    "Aftermath": [
+      "The cows are finally calm. It does my heart good.$h",
+      "Everyone in the barn slept last night, including me.$h"
+    ],
+    "Severed": [
+      "The animals are happy again. That's all the reassurance I need.$h",
+      "The pasture feels like home again, doesn't it?$h"
+    ]
+  },
+  "Maru": {
+    "Whispers": [
+      "My prototype compass twitched toward the forest. It wasn't supposed to do that.$u",
+      "Dad's measurements have been unusual. He won't stop checking them."
+    ],
+    "Unease": [
+      "I've ruled out electrical interference. That leaves an answer I don't like.$u",
+      "My machine recorded a tiny pulse every night at the same hour.$u"
+    ],
+    "Cultists": [
+      "There were shapes in my telescope that didn't match the landscape.$u",
+      "I got a reading from the forest that shouldn't be physically possible.$u"
+    ],
+    "Temple": [
+      "Whatever's happening is affecting more than one kind of sensor.$u",
+      "I wish I could help Dad explain the data. It seems to be getting worse.$u"
+    ],
+    "Aftermath": [
+      "The readings settled overnight! Finally, something makes sense.$h",
+      "I might actually finish my robot now that the equipment's behaving.$h"
+    ],
+    "Severed": [
+      "All the test runs passed. I think I can finally stop troubleshooting.$h",
+      "Maybe the universe doesn't need an explanation for every little thing.$h"
+    ]
+  },
+  "Pam": {
+    "Whispers": [
+      "Saw something move by the bus stop after dark. Probably a deer. Probably.$u",
+      "The road felt longer than usual this morning. That's a strange thing to say."
+    ],
+    "Unease": [
+      "I keep seeing a light behind the bus in my mirror. Turns out there's nothing there.$u",
+      "There've been more people asking for rides before sunset lately.$u"
+    ],
+    "Cultists": [
+      "A bunch of figures crossed the road and vanished into the trees. Not funny.$s",
+      "I don't like driving past the forest anymore. There. I said it."
+    ],
+    "Temple": [
+      "The bus stalled for a heartbeat near the old path. Never done that before.$u",
+      "I wish whatever's making trouble would take it somewhere else."
+    ],
+    "Aftermath": [
+      "The bus started right up today. Beautiful sound.$h",
+      "It's been a nice, ordinary day on the road. I'll take it.$h"
+    ],
+    "Severed": [
+      "Nothing strange in the mirrors all week. Suits me fine.$h",
+      "Road's clear, engine's running, sun's out. Can't complain.$h"
+    ]
+  },
+  "Penny": {
+    "Whispers": [
+      "Vincent's been drawing the same strange symbol again and again. He says he saw it in a dream.$u",
+      "The children seem more distracted lately. I hope they're sleeping well."
+    ],
+    "Unease": [
+      "Some of the stories the children tell have been rather unsettling.$u",
+      "I moved our lessons indoors today. It seemed kinder.$u"
+    ],
+    "Cultists": [
+      "Jas says she saw people standing among the trees. I don't think she made it up.$u",
+      "I try to answer the children's questions without frightening them. It's getting harder.$u"
+    ],
+    "Temple": [
+      "The children keep asking whether something bad is coming. I wish I knew what to say.$u",
+      "I read them a story about finding your way home. It helped us all.$h"
+    ],
+    "Aftermath": [
+      "The children were laughing through lessons today. Such a relief.$h",
+      "We took class outside again, and the whole morning felt lighter.$h"
+    ],
+    "Severed": [
+      "Jas drew a picture of the flowers by the river today. No shadows at all.$h",
+      "It's lovely to see the children thinking about ordinary things again.$h"
+    ]
+  },
+  "Pierre": {
+    "Whispers": [
+      "Business has been odd lately. Customers keep glancing at the windows.$u",
+      "Someone bought every candle I had. Said it was for 'peace of mind.'"
+    ],
+    "Unease": [
+      "People are stocking up on supplies. I wish they'd say what they're worried about.$u",
+      "I've heard a dozen versions of the same rumor. None of them make any sense."
+    ],
+    "Cultists": [
+      "Customers are talking about strangers at the edge of town. Not great for business.$u",
+      "If there really are cloaked people around, I hope they shop somewhere else.$u"
+    ],
+    "Temple": [
+      "I sold out of lantern oil again. People don't usually buy this much in summer.$u",
+      "Even I have to admit something strange has been happening lately.$u"
+    ],
+    "Aftermath": [
+      "The shop feels busy in a normal way again. I'm glad.$h",
+      "Everyone's buying seeds instead of candles. That's more like it.$h"
+    ],
+    "Severed": [
+      "I think a little routine is good for everyone. Especially shopping locally.$h",
+      "The valley's back to its usual self. And so are sales.$h"
+    ]
+  },
+  "Robin": {
+    "Whispers": [
+      "A beam in the workshop gave a strange little shudder last night.$u",
+      "I was out cutting timber and found a perfectly round patch where nothing had grown."
+    ],
+    "Unease": [
+      "The wood's been splitting along patterns I haven't seen before.$u",
+      "I keep hearing knocking when no one's working. It's driving me up the wall."
+    ],
+    "Cultists": [
+      "I saw three people standing near the trail. They didn't answer when I called.$u",
+      "I'm telling everyone to finish their outdoor work before dark.$u"
+    ],
+    "Temple": [
+      "The ground shifted under the workshop, but none of the supports moved.$u",
+      "I've worked with old stone before. Something about the hills worries me.$u"
+    ],
+    "Aftermath": [
+      "The house has been quiet again. No unexplained creaking.$h",
+      "I've finally been able to get through a whole day of carpentry without distractions.$h"
+    ],
+    "Severed": [
+      "Good solid wood, steady ground, a roof overhead. That's enough for me.$h",
+      "I don't know what changed, but my workshop feels normal again.$h"
+    ]
+  },
+  "Sam": {
+    "Whispers": [
+      "There was this weird noise behind the house. Almost like a guitar string being pulled really slowly.$u",
+      "My amp picked up a sound when it wasn't plugged in. That's... not good."
+    ],
+    "Unease": [
+      "Seb and I heard something from the forest. Neither of us wanted to check it out.$u",
+      "My music's been sounding off lately. Like someone's playing a note beneath mine.$u"
+    ],
+    "Cultists": [
+      "Saw people between the trees when I was out skating. I came straight home.$u",
+      "Dude, the woods are giving me the creeps lately. And that's saying something."
+    ],
+    "Temple": [
+      "I tried writing a song about what's happening. It just came out really dark.$u",
+      "Whatever's going on, can it please stop messing with the sound around here?"
+    ],
+    "Aftermath": [
+      "Played a full set with no weird noise from the amp. Finally!$h",
+      "The new song I wrote is actually upbeat. That's progress.$h"
+    ],
+    "Severed": [
+      "We've been practicing more. It's nice to think about music instead of shadows.$h",
+      "I think our next song should just be about having a good day.$h"
+    ]
+  },
+  "Sebastian": {
+    "Whispers": [
+      "My monitor flickered at three in the morning. There wasn't a power outage.$u",
+      "Took my bike out late and heard footsteps where there wasn't a road."
+    ],
+    "Unease": [
+      "The woods are the one place I go to clear my head. They're not helping lately.$u",
+      "I keep waking up right before the same dream ends. It's getting old."
+    ],
+    "Cultists": [
+      "I saw a group in black robes on the trail. I didn't stick around to ask questions.$u",
+      "There were shapes under the trees that stayed still when everything else moved.$u"
+    ],
+    "Temple": [
+      "I went out at midnight and the whole road felt... stretched. Hard to explain.$u",
+      "I've stopped taking the mountain shortcut. Something about it is wrong.$u"
+    ],
+    "Aftermath": [
+      "Rode my bike after dark for the first time in a while. Felt good.$h",
+      "My dreams have been normal again. Well, normal for me.$h"
+    ],
+    "Severed": [
+      "The forest's quiet again. I missed being able to disappear into it for a while.$h",
+      "I sat by the lake last night. No strange sounds. Just frogs.$h"
+    ]
+  },
+  "Shane": {
+    "Whispers": [
+      "The chickens were acting strange this morning. Not a fan.$u",
+      "Heard something near the coop after closing. Didn't see anything."
+    ],
+    "Unease": [
+      "Charlie won't go near the fence at night. That bird knows something.$u",
+      "Even the saloon feels tense lately. Kinda defeats the point."
+    ],
+    "Cultists": [
+      "I saw people standing along the treeline. Not customers from Joja, that's for sure.$u",
+      "I've been staying close to the ranch after dark. Don't make a thing of it."
+    ],
+    "Temple": [
+      "The chickens haven't slept right in days. Neither have I.$u",
+      "I don't know what's happening out there, but I wish it'd knock it off."
+    ],
+    "Aftermath": [
+      "Charlie came running for breakfast today. Back to normal.$h",
+      "Finally had a decent night's sleep. Don't jinx it."
+    ],
+    "Severed": [
+      "Been looking after the chickens. They've got a good life, you know?$h",
+      "It's easier to get through the day when nothing weird's happening outside."
+    ]
+  },
+  "Vincent": {
+    "Whispers": [
+      "I heard a funny song from the trees! Mom said I imagined it.$u",
+      "I dreamed there was a door at the end of our street."
+    ],
+    "Unease": [
+      "Jas says the trees look different at night. I don't want to check.$u",
+      "I saw a shadow on the wall and it didn't match anything in my room."
+    ],
+    "Cultists": [
+      "There were some people way out in the woods. I didn't like them.$u",
+      "Mom says I have to stay inside when the sun goes down.$u"
+    ],
+    "Temple": [
+      "I don't want to hear any more spooky stories today.$u",
+      "I had a bad dream. Penny let me draw something nice instead.$u"
+    ],
+    "Aftermath": [
+      "I played outside all day! Mom wasn't worried this time.$h",
+      "The trees look like regular trees again.$h"
+    ],
+    "Severed": [
+      "Jas and me made a really good fort!$h",
+      "I haven't had a scary dream all week.$h"
+    ]
+  },
+  "Willy": {
+    "Whispers": [
+      "Something's been stirring the water without making a ripple.$u",
+      "The fish bit right up until sunrise. Then everything went still."
+    ],
+    "Unease": [
+      "The sea's been holding its breath at night, if you know what I mean.$u",
+      "Heard a sound over the water that no bird ever made.$u"
+    ],
+    "Cultists": [
+      "Saw lanterns moving along the shore where no path runs.$u",
+      "Even the crabs have been heading away from the deeper water.$u"
+    ],
+    "Temple": [
+      "A strange tide came through, though the moon was in the wrong place for it.$u",
+      "There's an old feeling in the water. Can't say I care for it.$u"
+    ],
+    "Aftermath": [
+      "The fish are biting again. Good to see the sea acting like itself.$h",
+      "Slept on the boat last night. First peaceful sleep I've had in weeks.$h"
+    ],
+    "Severed": [
+      "The water's calm, the gulls are noisy, and all's right with the world.$h",
+      "Some storms leave you appreciating a good quiet morning.$h"
+    ]
+  },
+  "Wizard": {
+    "Whispers": [
+      "The currents around your farm have shifted. Be judicious in what you awaken.$u",
+      "You have touched a power that notices when it is touched in return.$u"
+    ],
+    "Unease": [
+      "Do not mistake the absence of a visible threat for safety.$u",
+      "There are seals older than this valley. Some have begun to thin.$u"
+    ],
+    "Cultists": [
+      "The figures in the woods are not the cause. They are drawn toward it.$u",
+      "The boundary has grown restless. Your choices now have consequences beyond your land.$u"
+    ],
+    "Temple": [
+      "You have stepped close to an ancient threshold. Do not linger there unprepared.$u",
+      "The temple's stones were made to keep something contained, not to be worshipped.$u"
+    ],
+    "Aftermath": [
+      "The presence beyond the veil has been driven back. Take no comfort in its apparent silence alone.$u",
+      "The worst has passed, but severing the final bond requires a choice only you can make.$u"
+    ],
+    "Severed": [
+      "The bond has been severed. Your art is yours now, and its cost need not feed that darkness.$h",
+      "There is an uncommon stillness in the arcane currents. You have earned it.$h"
+    ]
+  },
+  "Marlon": {
+    "Whispers": [
+      "My sword rattled in its sheath the other night. Hadn't touched it.$u",
+      "There are old tracks on the mountain that don't belong to any monster I know."
+    ],
+    "Unease": [
+      "The guild's received reports of unusual movement near the forest.$u",
+      "I've asked the younger adventurers not to take the western trail alone.$u"
+    ],
+    "Cultists": [
+      "Those hooded figures are organized. That's what worries me more than their clothes.$u",
+      "I've seen monsters run from the woods lately. Monsters, mind you.$u"
+    ],
+    "Temple": [
+      "The disturbance reaches farther than the temple's old stones.$u",
+      "Keep your blade sharp, farmer. Some doors shouldn't be opened without a way back.$u"
+    ],
+    "Aftermath": [
+      "The guild's patrols have been uneventful. I hope that's the new pattern.$h",
+      "There are battles you can't win with steel alone. Remember that.$h"
+    ],
+    "Severed": [
+      "The valley has had its share of darkness. This time, the dawn held.$h",
+      "I've closed the incident in my records. Not forgotten it, mind you.$h"
+    ]
+  },
+  "Sandy": {
+    "Whispers": [
+      "The desert wind carried a strange echo last night. It came from the direction of the valley.$u",
+      "Sometimes even out here, you can feel when something far away has changed."
+    ],
+    "Unease": [
+      "A customer said the mountains near Pelican Town looked darker than usual.$u",
+      "I've been having dreams about a road that leads nowhere. Very odd.$u"
+    ],
+    "Cultists": [
+      "The merchants have been telling stories about cloaked travelers on the valley roads.$u",
+      "I saw a star flicker over the western hills. It wasn't a cloud.$u"
+    ],
+    "Temple": [
+      "I felt the ground tremble out here yesterday. I wonder what happened back in the valley.$u",
+      "There's a strange heaviness on the breeze from the mountains.$u"
+    ],
+    "Aftermath": [
+      "The air feels clear again, even all the way out here.$h",
+      "I've been sleeping much better lately. Whatever it was must have passed.$h"
+    ],
+    "Severed": [
+      "The desert stars have been beautiful lately. Nothing unusual among them.$h",
+      "I hope your valley is peaceful. Mine feels that way again.$h"
+    ]
+  }
+}

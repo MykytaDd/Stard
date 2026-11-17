@@ -1,0 +1,14 @@
+{
+  "EnableDailySignal": true,
+  "DailySignalTime": 800,
+  "StaticTicks": 40,
+  "GlitchTicks": 24,
+  "FrameDurationTicks": 16,
+  "EventScale": 4.0,
+  "RepeatStaticTicks": 22,
+  "RepeatGlitchTicks": 14,
+  "EnableDailySudoku": true,
+  "DailyRewardEasy": 250,
+  "DailyRewardNormal": 500,
+  "DailyRewardHard": 900
+}

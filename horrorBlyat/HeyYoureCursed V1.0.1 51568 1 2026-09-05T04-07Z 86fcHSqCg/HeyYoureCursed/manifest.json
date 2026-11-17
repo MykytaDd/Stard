@@ -1,0 +1,10 @@
+{
+  "Name": "Hey! You’re Cursed!",
+  "Author": "ronvotri",
+  "Version": "1.0.0",
+  "Description": "A compact paranormal story mod featuring a cursed VHS, the ghost Sudoku, daily interactions, Spirit's Eve, Sudoku progression, and a complete first case.",
+  "UniqueID": "ronvotri.HeyYoureCursed",
+  "EntryDll": "HeyYoureCursed.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

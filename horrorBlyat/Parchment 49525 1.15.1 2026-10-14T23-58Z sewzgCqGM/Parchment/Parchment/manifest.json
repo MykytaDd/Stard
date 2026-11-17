@@ -1,0 +1,13 @@
+{
+  "Name": "Parchment",
+  "Author": "PeacefulEnd",
+  "Version": "1.15.1",
+  "Description": "A framework which allows mod authors to create fully customizable in-game books.",
+  "UniqueID": "PeacefulEnd.Parchment.Core",
+  "EntryDll": "Parchment.dll",
+  "MinimumApiVersion": "4.1.10",
+  "UpdateKeys": [ "Nexus:49525" ],
+  "Dependencies": [
+    { "UniqueID": "Pathoschild.ContentPatcher", "IsRequired": false }
+  ]
+}

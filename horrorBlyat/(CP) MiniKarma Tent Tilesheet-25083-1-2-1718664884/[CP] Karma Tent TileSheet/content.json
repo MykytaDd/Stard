@@ -1,0 +1,17 @@
+{
+  "Format": "2.2.0",
+  "Changes": [
+    {
+      "LogName": "MiniKarma Seasonal Tent Tilesheet Outdoors",
+      "Action": "Load",
+      "Target": "maps/spring_mod_MiniKarma_outdoorsTentTileSheet, maps/summer_mod_MiniKarma_outdoorsTentTileSheet, maps/fall_mod_MiniKarma_outdoorsTentTileSheet, maps/winter_mod_MiniKarma_outdoorsTentTileSheet",
+      "FromFile": "assets/{{TargetWithoutPath}}.png"
+    },
+    {
+      "LogName": "MiniKarma Tent Tilesheet Interior",
+      "Action": "Load",
+      "Target": "maps/mod_MiniKarma_interiorTentTileSheet",
+      "FromFile": "assets/{{TargetWithoutPath}}.png"
+    },
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "[CP] Parchment Example Pack",
+  "Author": "PeacefulEnd",
+  "Version": "1.15.1",
+  "Description": "...",
+  "UniqueID": "PeacefulEnd.Parchment.ContentPatcherExample",
+  "MinimumApiVersion": "4.1.10",
+  "UpdateKeys": [ "Nexus:????" ],
+  "Dependencies": [
+    {
+      "UniqueID": "PeacefulEnd.Parchment.Core",
+      "IsRequired": true,
+      "MinimumVersion": "1.15.1"
+    }
+  ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

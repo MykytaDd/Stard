@@ -1,0 +1,16 @@
+{
+  "Name": "SHIE'S PORTRAITS",
+  "Author": "Shie",
+  "Version": "1.4.0",
+  "Description": "Portraits for all npc using PortraiturePlus",
+  "UniqueID": "Shie.SHIESPORTARAITS",
+  "ContentPackFor": {
+    "UniqueID": "Arborsm.PortraiturePlus"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Arborsm.PortraiturePlus",
+      "IsRequired": true
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "Format": "2.3.0",
+  "Changes": [
+    {
+      "LogName": "Blood Magic - Aldric Camp Map",
+      "Action": "Load",
+      "Target": "Maps/CozyPsychologist.BloodMagic_AldricCamp",
+      "FromFile": "assets/Aldric_Map.tmx",
+      "When": {
+        "HasMod |contains=DaisyNiko.EarthyRecolour": false,
+        "HasMod |contains=Kookiefroggie.Recolor": false
+      }
+    },
+    {
+      "LogName": "Blood Magic - Aldric Camp (Earthy or Kookiefroggie shared game tilesheets)",
+      "Action": "Load",
+      "Target": "Maps/CozyPsychologist.BloodMagic_AldricCamp",
+      "FromFile": "assets/Aldric_Map_recolor.tmx",
+      "When": {
+        "HasMod": "DaisyNiko.EarthyRecolour, Kookiefroggie.Recolor"
+      }
+    },
+    {
+      "LogName": "Blood Magic - Aldric Camp Location Data",
+      "Action": "EditData",
+      "Target": "Data/Locations",
+      "Entries": {
+        "CozyPsychologist.BloodMagic_AldricCamp": {
+          "DisplayName": "Aldric's Camp",
+          "DefaultArrivalTile": {
+            "X": 12,
+            "Y": 13
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/CozyPsychologist.BloodMagic_AldricCamp"
+          }
+        }
+      }
+    },
+    {
+      "LogName": "Blood Magic - Unending Arena Map",
+      "Action": "Load",
+      "Target": "Maps/BM_TheUnendingDream",
+      "FromFile": "assets/BloodMagicArena.tmx"
+    },
+    {
+      "LogName": "Blood Magic - Unending Arena Location Data",
+      "Action": "EditData",
+      "Target": "Data/Locations",
+      "Entries": {
+        "BM_TheUnendingDream": {
+          "DisplayName": "The Unending Dream",
+          "DefaultArrivalTile": {
+            "X": 10,
+            "Y": 16
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/BM_TheUnendingDream"
+          }
+        }
+      }
+    },
+    {
+      "LogName": "Blood Magic - Unending Arena Map Properties",
+      "Action": "EditMap",
+      "Target": "Maps/BM_TheUnendingDream",
+      "MapProperties": {
+        "Music": "VolcanoMines1",
+        "PassOutSafe": "T",
+        "ViewportFollowPlayer": "T"
+      }
+    },
+    {
+      "LogName": "Blood Magic - Visible Aldric Camp Entrance",
+      "Action": "EditMap",
+      "Target": "Maps/Forest",
+      "FromFile": "assets/Forest_AldricEntrance.tmx",
+      "ToArea": {
+        "X": 36,
+        "Y": 0,
+        "Width": 13,
+        "Height": 10
+      },
+      "PatchMode": "ReplaceByLayer",
+      "When": {
+        "HasMod |contains=DaisyNiko.EarthyRecolour": "false",
+        "HasMod |contains=Kookiefroggie.Recolor": "false"
+      }
+    },
+    {
+      "LogName": "Blood Magic - Recolored Seasonal Forest Camp Entrance (Earthy or Kookiefroggie)",
+      "Action": "EditMap",
+      "Target": "Maps/Forest",
+      "FromFile": "assets/Forest_AldricEntrance_recolor_{{Season}}.tmx",
+      "ToArea": {
+        "X": 36,
+        "Y": 0,
+        "Width": 13,
+        "Height": 10
+      },
+      "PatchMode": "ReplaceByLayer",
+      "When": {
+        "HasMod": "DaisyNiko.EarthyRecolour, Kookiefroggie.Recolor"
+      }
+    },
+    {
+      "LogName": "Blood Magic - Forest warp to Aldric Camp",
+      "Action": "EditMap",
+      "Target": "Maps/Forest",
+      "AddWarps": [
+        "44 6 CozyPsychologist.BloodMagic_AldricCamp 12 13"
+      ]
+    },
+    {
+      "LogName": "Blood Magic - Jungle Temple Custom Tiles",
+      "Action": "Load",
+      "Target": "Maps/JungleTemple_TileSheet",
+      "FromFile": "assets/temple/JungleTemple_TileSheet.xnb"
+    },
+    {
+      "LogName": "Blood Magic - Jungle Temple Outdoor Tiles",
+      "Action": "Load",
+      "Target": "Maps/JungleTemple_outdoorsTileSheet",
+      "FromFile": "assets/temple/JungleTemple_outdoorsTileSheet.xnb"
+    },
+    {
+      "LogName": "Blood Magic - Temple Exterior",
+      "Action": "Load",
+      "Target": "Maps/BM_TempleExterior",
+      "FromFile": "TempleExterior.xnb"
+    },
+    {
+      "LogName": "Blood Magic - Temple Junction",
+      "Action": "Load",
+      "Target": "Maps/BM_TempleJunction",
+      "FromFile": "TempleJunction.xnb"
+    },
+    {
+      "LogName": "Blood Magic - Temple Left Chamber",
+      "Action": "Load",
+      "Target": "Maps/BM_TempleLeft",
+      "FromFile": "TempleLeft.xnb"
+    },
+    {
+      "LogName": "Blood Magic - Temple Right Chamber",
+      "Action": "Load",
+      "Target": "Maps/BM_TempleRight",
+      "FromFile": "TempleRight.xnb"
+    },
+    {
+      "LogName": "Blood Magic - Temple Main Chamber",
+      "Action": "Load",
+      "Target": "Maps/BM_TempleMain",
+      "FromFile": "TempleMain.xnb"
+    },
+    {
+      "LogName": "Blood Magic - Temple Location Data",
+      "Action": "EditData",
+      "Target": "Data/Locations",
+      "Entries": {
+        "BM_TempleExterior": {
+          "DisplayName": "The Forgotten Temple",
+          "DefaultArrivalTile": {
+            "X": 14,
+            "Y": 11
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/BM_TempleExterior"
+          }
+        },
+        "BM_TempleJunction": {
+          "DisplayName": "The Forgotten Temple",
+          "DefaultArrivalTile": {
+            "X": 9,
+            "Y": 11
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/BM_TempleJunction"
+          }
+        },
+        "BM_TempleLeft": {
+          "DisplayName": "Chamber of Offering",
+          "DefaultArrivalTile": {
+            "X": 17,
+            "Y": 8
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/BM_TempleLeft"
+          }
+        },
+        "BM_TempleRight": {
+          "DisplayName": "Chamber of the Veil",
+          "DefaultArrivalTile": {
+            "X": 1,
+            "Y": 8
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/BM_TempleRight"
+          }
+        },
+        "BM_TempleMain": {
+          "DisplayName": "The Main Chamber",
+          "DefaultArrivalTile": {
+            "X": 7,
+            "Y": 15
+          },
+          "CreateOnLoad": {
+            "MapPath": "Maps/BM_TempleMain"
+          }
+        }
+      }
+    },
+    {
+      "LogName": "Blood Magic - Temple Side Chamber Warps",
+      "Action": "EditMap",
+      "Target": "Maps/BM_TempleJunction",
+      "AddWarps": [
+        "1 7 BM_TempleLeft 17 8",
+        "1 8 BM_TempleLeft 17 9",
+        "18 7 BM_TempleRight 1 8",
+        "18 8 BM_TempleRight 1 9",
+        "9 4 BM_TempleMain 7 15",
+        "10 4 BM_TempleMain 8 15"
+      ],
+      "MapProperties": {
+        "Music": "woodsTheme",
+        "PassOutSafe": "T",
+        "Outdoors": null
+      }
+    },
+    {
+      "LogName": "Blood Magic - Temple Left Return",
+      "Action": "EditMap",
+      "Target": "Maps/BM_TempleLeft",
+      "AddWarps": [
+        "18 8 BM_TempleJunction 3 7",
+        "18 9 BM_TempleJunction 3 8"
+      ],
+      "MapProperties": {
+        "Music": "woodsTheme",
+        "PassOutSafe": "T",
+        "Outdoors": null
+      }
+    },
+    {
+      "LogName": "Blood Magic - Temple Right Return",
+      "Action": "EditMap",
+      "Target": "Maps/BM_TempleRight",
+      "AddWarps": [
+        "0 8 BM_TempleJunction 16 7",
+        "0 9 BM_TempleJunction 16 8"
+      ],
+      "MapProperties": {
+        "Music": "woodsTheme",
+        "PassOutSafe": "T",
+        "Outdoors": null
+      }
+    },
+    {
+      "LogName": "Blood Magic - Final Chamber Return Passage",
+      "Action": "EditMap",
+      "Target": "Maps/BM_TempleMain",
+      "AddWarps": [
+        "7 16 BM_TempleJunction 9 6",
+        "8 16 BM_TempleJunction 10 6"
+      ],
+      "MapProperties": {
+        "Music": "woodsTheme",
+        "PassOutSafe": "T",
+        "Outdoors": null
+      }
+    },
+    {
+      "LogName": "Blood Magic - Temple Exterior Properties",
+      "Action": "EditMap",
+      "Target": "Maps/BM_TempleExterior",
+      "MapProperties": {
+        "Music": "woodsTheme",
+        "PassOutSafe": "T",
+        "Outdoors": null
+      }
+    },
+    {
+      "LogName": "Blood Magic - Temple Bundle Placement Tiles",
+      "Action": "EditMap",
+      "Target": "Maps/BM_TempleLeft",
+      "MapTiles": [
+        {
+          "Layer": "Back",
+          "Position": {
+            "X": 12,
+            "Y": 8
+          },
+          "SetProperties": {
+            "NoSpawn": "T",
+            "NoFurniture": "T",
+            "UB_NoGrass": "T"
+          }
+        }
+      ]
+    },
+    {
+      "LogName": "Blood Magic - Temple Veil Bundle Placement Tile",
+      "Action": "EditMap",
+      "Target": "Maps/BM_TempleRight",
+      "MapTiles": [
+        {
+          "Layer": "Back",
+          "Position": {
+            "X": 5,
+            "Y": 8
+          },
+          "SetProperties": {
+            "NoSpawn": "T",
+            "NoFurniture": "T",
+            "UB_NoGrass": "T"
+          }
+        }
+      ]
+    },
+    {
+      "LogName": "Blood Magic - Temple Offering Bundles",
+      "Action": "EditData",
+      "Target": "UnlockableBundles/Bundles",
+      "Entries": {
+        "CozyPsychologist.BloodMagic.TempleOfferingV2": {
+          "ShopType": "CCBundle",
+          "Location": "BM_TempleLeft",
+          "BundleName": "The Witness Offering",
+          "BundleDescription": "The inscription is a riddle: One drinks the sun. One once carried breath. One sleeps beneath stone. The fourth offering is blood made portable.",
+          "ShopPosition": "12, 8",
+          "BundleSlots": 4,
+          "BundleIcon": "Enchanter",
+          "Price": {
+            "421": 1,
+            "767": 5,
+            "80": 1,
+            "CozyPsychologist.BloodMagic_BloodEssence": 1
+          }
+        },
+        "CozyPsychologist.BloodMagic.TempleVeilV2": {
+          "ShopType": "CCBundle",
+          "Location": "BM_TempleRight",
+          "BundleName": "The Veil Offering",
+          "BundleDescription": "The inscription is a riddle: Bring the light that survives death, the shadow that feeds on it, the remains that remember a body, and one vial of blood made solid.",
+          "ShopPosition": "5, 8",
+          "BundleSlots": 4,
+          "BundleIcon": "Enchanter",
+          "Price": {
+            "768": 3,
+            "769": 3,
+            "881": 10,
+            "CozyPsychologist.BloodMagic_BloodEssence": 1
+          }
+        }
+      }
+    }
+  ]
+}

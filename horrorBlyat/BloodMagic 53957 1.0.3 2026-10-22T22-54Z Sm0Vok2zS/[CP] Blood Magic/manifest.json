@@ -1,0 +1,29 @@
+{
+  "Name": "Blood Magic - Content",
+  "Author": "CozyPsychologist",
+  "Version": "1.0.3",
+  "Description": "Content Patcher pack for Blood Magic. Loads custom maps, locations, and Forgotten Temple offerings.",
+  "UniqueID": "CozyPsychologist.BloodMagic.CP",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "2.3.0"
+  },
+  "UpdateKeys": ["Nexus:53957"],
+  "Dependencies": [
+    {
+      "UniqueID": "DLX.Bundles",
+      "MinimumVersion": "4.3.1",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "PC.CL.Tilesheet",
+      "MinimumVersion": "1.0.0",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "MiniKarma.Tilesheets.Tents",
+      "MinimumVersion": "1.1.0",
+      "IsRequired": true
+    }
+  ]
+}
